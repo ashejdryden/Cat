@@ -23,3 +23,11 @@ are discouraged. The purpose of meetings is to establish communication and give 
   Phone use: completely fine, as long as the member isn't entirely distracted as to hinder what they need to communicate.
 
   Food/drinks: absolutely fine.
+
+
+GROUP COMMUNICATION AND INTERACTION
+1. Communications should occur at least once a week for a meeting, and as needed during discord. If a group member makes a comment on discord, they should be responded to by someone within 24 hours.
+2. Communications should be respectful. If an issue occurs between team members, others should intervene.
+3. Roles: note taker takes notes during the meeting and makes sure everyone has access to them afterwards, meeting leader should keep the meeting on track by timeboxing conversations and redirecting people on to task. Everyone should contribute to the agenda 24 hours before.
+4. Decision making should be carried out through voting. 
+5. Delegation should occur if someone is behind on their tasks, volunteers are preferred over assignment.
