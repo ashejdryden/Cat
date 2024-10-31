@@ -31,3 +31,24 @@ GROUP COMMUNICATION AND INTERACTION
 3. Roles: note taker takes notes during the meeting and makes sure everyone has access to them afterwards, meeting leader should keep the meeting on track by timeboxing conversations and redirecting people on to task. Everyone should contribute to the agenda 24 hours before.
 4. Decision making should be carried out through voting. 
 5. Delegation should occur if someone is behind on their tasks, volunteers are preferred over assignment.
+
+Group participation and work quality:
+
+Group participation:
+1. If a group member isn't participating or is over-participating it will be brought up in the next meeting by another group member in which the issue will be resolved through conversation from each group member. If some is asked to share what they think or is asked to give others a chance to
+share, but they do not, and their under or over-sharing is blocking the flow of the meeting,
+then by group decision, it may be considered a minor offense.
+
+2. Work not up to standard:
+Group standards, regarding quality and timeliness of work, are important to uphold if we
+aim to succeed as a group. With goal 2 in mind, we should always be putting forth the
+effort necessary to submit our best work. However, if there is a problem it should be
+handled in the following manner. It is understandable that at some point in this project,
+someone may not be able to put in the time or effort necessary to meet group standards. If
+that should happen they must notify the group within 24 hours of the next meeting. It will then be established if the work is to be picked up or assisted by another group memeber or postponed until the next sprint. If they continue to repeat this behavior
+it may result in a minor or major offense depending on the severity. In any case a minor
+offense must be given to the individual, for this action, before a major offense can be. At
+some point, the group may cease to offer work to him as he is untrustworthy.
+However, a group member may be able to redeem himself. If said member continues to
+perform above expectations for at least two weeks he shall be returned to full member
+status by way of this clause.
