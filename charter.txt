@@ -13,16 +13,12 @@
 3. Communicate in discord ahead of time , if any issues . 
 
 ## Ground Rules
-  Length: Our meetings will be of an arbitrary length - however long it takes for us to share what we each need to go over, though meetings longer than 1 ½ hours
+1. Length: Our meetings will be of an arbitrary length - however long it takes for us to share what we each need to go over, though meetings longer than 1 ½ hours
 are discouraged. The purpose of meetings is to establish communication and give direction to the project. Meetings once a week should be enough unless it is decided by the group that additional meetings should be scheduled. This communication should take place through the group discord. It is understood that if a meeting takes too long, members may have to leave for classes or work obligations. This type of situation will not constitute and offense.
-
-  Missed Meetings: A member may miss one meeting, but will result in a minor offence. Any meetings missed more than once after that will result in major offence.
-
-  Tardiness: as long as each member doesn't come in at the last 20 minutes (or around there) of the meeting, it'll be fine. It will be okay if the member comes in within 10 minutes of the start of the meeting. Repeated tardiness over 10 minutes will result in displinary action.
-
-  Phone use: completely fine, as long as the member isn't entirely distracted as to hinder what they need to communicate.
-
-  Food/drinks: absolutely fine.
+2. Missed Meetings: A member may miss one meeting, but will result in a minor offence. Any meetings missed more than once after that will result in major offence.
+3. Tardiness: as long as each member doesn't come in at the last 20 minutes (or around there) of the meeting, it'll be fine. It will be okay if the member comes in within 10 minutes of the start of the meeting. Repeated tardiness over 10 minutes will result in displinary action.
+4. Phone use: completely fine, as long as the member isn't entirely distracted as to hinder what they need to communicate.
+5. Food/drinks: absolutely fine.
 
 
 ## Group Communication and Interaction
@@ -33,7 +29,6 @@ are discouraged. The purpose of meetings is to establish communication and give 
 5. Delegation should occur if someone is behind on their tasks, volunteers are preferred over assignment.
 
 ## Group participation and work quality:
-
 ### Group participation:
 1. If a group member isn't participating or is over-participating it will be brought up in the next meeting by another group member in which the issue will be resolved through conversation from each group member. If some is asked to share what they think or is asked to give others a chance to
 share, but they do not, and their under or over-sharing is blocking the flow of the meeting,
