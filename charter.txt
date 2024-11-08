@@ -1,88 +1,56 @@
+#Charter for Group 4: Cat
 
+## Goals 
+1. We would like an A level quality work. 
+2. We want to respect each other and everybody plays their role, meaning evenly spread work as much as possible.
+3. Familiarize ourselves with new technologies and experience software engineer work flow. 
+4. We'd like to follow/learn scrum guidelines and practices. 
 
-Goals 
-1. We would like an A level quality work, 
-2. We want to respect eachother and everybody plays there role , meaning evenly spread work as much as possible
-3. Familiarize ourselves with new technologies and experience software engineer work flow 
-4. We'd like to follow/learn scrum guidelines and practices 
-5. To be extended 
-
-Work Norms
-1. Time commitments dependent on tasks, picking up a safe amount of work. As long as we are making adequate progress , consistenly in respect to the deadlines . 
+# Work Norms
+1. Time commitments dependent on tasks: pick up a safe amount of work. Make adequate progress, consistenly in respect to the deadlines. 
 2. The work habits of any particular member will not be an issue as long as the member communicates progress, produces quality work, and the work is done by the dates established by the group. If the member does not meet these standards, procedures to deal with that member are further detailed in the ground rules.
-3. Communicate in discord ahead of time , if any issues . 
+3. If any issues arise, communicate in discord ahead of time. 
 
-GROUND RULES:
-  Length: Our meetings will be of an arbitrary length - however long it takes for us to share what we each need to go over, though meetings longer than 1 ½ hours
-are discouraged. The purpose of meetings is to establish communication and give direction to the project. Meetings once a week should be enough unless it is decided by the group that additional meetings should be scheduled. This communication should take place through the group discord. It is understood that if a meeting takes too long, members may have to leave for classes or work obligations. This type of situation will not constitute and offense.
-
-  Missed Meetings: A member may miss one meeting, but will result in a minor offence. Any meetings missed more than once after that will result in major offence.
-
-  Tardiness: as long as each member doesn't come in at the last 20 minutes (or around there) of the meeting, it'll be fine. It will be okay if the member comes in within 10 minutes of the start of the meeting. Repeated tardiness over 10 minutes will result in displinary action.
-
-  Phone use: completely fine, as long as the member isn't entirely distracted as to hinder what they need to communicate.
-
-  Food/drinks: absolutely fine.
+## Ground Rules
+1. Meeting Length: Our meetings will be of an arbitrary length - however long it takes for us to share what we each need to go over, though meetings longer than 1 ½ hours are discouraged. The purpose of meetings is to establish communication and give direction to the project. Meetings once a week should be enough unless it is decided by the group that additional meetings should be scheduled. This communication should take place through the group discord. It is understood that if a meeting takes too long, members may have to leave for classes or work obligations. This type of situation will not constitute an offense.
+2. Missed Meetings: A member may miss one meeting, which will result in a minor offence. Any meetings missed more than once after that will result in major offence.
+3. Tardiness: It is expected that members will arrive within 10 minutes of the start of the meeting. Repeated tardiness over 10 minutes will result in displinary action.
+4. Phone use: completely fine, as long as the member isn't distracted as to hinder what they need to communicate.
+5. Food/drinks: absolutely fine.
 
 
-GROUP COMMUNICATION AND INTERACTION
-1. Communications should occur at least once a week for a meeting, and as needed during discord. If a group member makes a comment on discord, they should be responded to by someone within 24 hours.
+## Group Communication and Interaction
+1. Communications should occur at least once a week for a meeting, and as needed through discord. If a group member makes a comment on discord, they should be responded to by someone within 24 hours.
 2. Communications should be respectful. If an issue occurs between team members, others should intervene.
-3. Roles: note taker takes notes during the meeting and makes sure everyone has access to them afterwards, meeting leader should keep the meeting on track by timeboxing conversations and redirecting people on to task. Everyone should contribute to the agenda 24 hours before.
+3. Roles: note taker takes notes during the meeting and makes sure everyone has access to them afterwards. Meeting leader should keep the meeting on track by timeboxing conversations and redirecting people back to the task at hand. Everyone should contribute to the agenda 24 hours before.
 4. Decision making should be carried out through voting. 
 5. Delegation should occur if someone is behind on their tasks, volunteers are preferred over assignment.
 
-Group participation and work quality:
-
-Group participation:
-1. If a group member isn't participating or is over-participating it will be brought up in the next meeting by another group member in which the issue will be resolved through conversation from each group member. If some is asked to share what they think or is asked to give others a chance to
-share, but they do not, and their under or over-sharing is blocking the flow of the meeting,
-then by group decision, it may be considered a minor offense.
-
-2. Work not up to standard:
-Group standards, regarding quality and timeliness of work, are important to uphold if we
-aim to succeed as a group. With goal 2 in mind, we should always be putting forth the
-effort necessary to submit our best work. However, if there is a problem it should be
-handled in the following manner. It is understandable that at some point in this project,
-someone may not be able to put in the time or effort necessary to meet group standards. If
-that should happen they must notify the group within 24 hours of the next meeting. It will then be established if the work is to be picked up or assisted by another group memeber or postponed until the next sprint. If they continue to repeat this behavior
-it may result in a minor or major offense depending on the severity. In any case a minor
-offense must be given to the individual, for this action, before a major offense can be. At
-some point, the group may cease to offer work to him as he is untrustworthy.
-However, a group member may be able to redeem himself. If said member continues to
-perform above expectations for at least two weeks he shall be returned to full member
-status by way of this clause.
-
-3. Group members unprepared: 
-It is understood that people are busy with other classes and school work.  If by group 
-consciousness it is obvious that a member is unprepared for a meeting, and their 
-unpreparedness creates a hindrance to the group and project, then disciplinary action will 
-have to take place. Unpreparedness of this form will immediately result in a warning then 
-a minor offence hereafter. 
-4. Workload too heavy: 
-If with the time restraints and number of group members actively participating is not 
-sufficient enough to complete the task, a communication to the team is mandatory. If unable
-to work within deadline as a team, a plea of mercy will be sent to the Rock via email 
+## Group participation and work quality
+### Group participation
+1. If a group member isn't participating or is over-participating it will be brought up in the next meeting to be resolved through conversation from each group member. If someone is asked to share what they think or is asked to give others a chance to share, but they do not, or their under- or over-sharing is blocking the flow of the meeting, then by group decision, it may be considered a minor offense.
+2. Work not up to standard: Group standards, regarding quality and timeliness of work, are important to uphold if we aim to succeed as a group. With goal 2 in mind, we should always be putting forth the effort necessary to submit our best work. However, if there is a problem it should be handled in the following manner. It is understandable that at some point in this project, someone may not be able to put in the time or effort necessary to meet group standards. If that should happen they must notify the group within 24 hours of the next meeting. It will then be established if the work is to be picked up or assisted by another group memeber or postponed until the next sprint. If they continue to repeat this behavior
+it may result in a minor or major offense depending on the severity. A minor offense must be given to the individual before a major offense. At some point, the group may cease to offer work to them as they are untrustworthy. However, a group member may be able to redeem themself. If said member continues to perform above expectations for at least two weeks they shall be returned to full member status by way of this clause.
+3. Group members unprepared: It is understood that people are busy with other classes and school work.  If by group consensus it is obvious that a member is unprepared for a meeting, and their unpreparedness creates a hindrance to the group and project, then disciplinary action will have to take place. Unpreparedness of this form will immediately result in a warning then 
+a minor offence thereafter. 
+4. Workload too heavy: If the time restraints and number of group members actively participating is not sufficient to complete the task, a communication to the team is mandatory. If unable to work within deadline as a team, a plea of mercy will be sent to Rock via email 
 and in person which logs the details of the amount of work to be done, the status of how 
-far we are, and why we can‟t complete it in that time period. 
+far we are, and why we can't complete it in that time period. 
 
+## Disciplinary Procedures:
 
-Disciplanary Procedures:
+1. Minor offenses: Minor offenses will be added when tardy or missing a meeting. Penalty: Buy the team sweet treats.
+2. Major Offenses: Put on probation, no work assigned to the member on probation. Probation can be lifted by majority vote, when the member on probation has proved their trustworthiness. Note taker will record everything. So the member on probation will receive a details of their major offense when 3 minor offences have accumulated and the group has discussed the issue. 
+3. Dismissal: Member is given over to the TA and the instructor if they are have committed at least 2 major offences.
 
-1. Minor offences: Minor offences will be added when tardy or missing a meeting. Penalty: Buy the teams sweet treats.
-
-2. Major Offences: Put on probations, no worked assigned to the member on probation. Probation can be lifted by majority vote, when the member on probation has proved their trustworthiness. Note taker will record everything. So the member on probation will receive a details of their major offence when 3 minor offences have accumulated and the group has discussed the issue. 
-
-3. Dismissal: Given over to the TA and the instructor is involved when more than 2 major offences have accumulated.
-
-We, the team named ________ agree with the Group Charter and will try our best to uphold it. 
-Name ________Ashe____________________________ 
-Name ________Jacky_____________________________  
-Name _______Lee______________________________  
-Name ______Ishan_______________________________  
-Name ______Sania_______________________________  
-Name ______Alexander______________________________  
-Date ______10/31/24_________ 
+We, the team named __Cat___ agree with the Group Charter and will try our best to uphold it. 
+Name ________Ashe____________
+Name ________Jacky___________  
+Name _______Lee______________  
+Name ______Ishan_____________  
+Name ______Sania_____________  
+Name ______Alexander_________  
+Date ______10/31/24__________ 
 Date _______10/31/24__________ 
 Date ______10/31/24___________ 
 Date ______10/31/24___________ 
